@@ -22,9 +22,4 @@ SunxWear combines high-quality, customizable sports apparel with a commitment to
 - **Design Tools**: Adobe Illustrator / Canva for product design
 - **Deployment**: GitHub Pages / AWS / VPS for hosting and performance optimization
 
-## Getting Started:
-To get started with the project, clone this repository and explore the different resources provided. For more detailed instructions, refer to our project's setup documentation.
 
-```bash
-git clone https://github.com/your-username/sunxwear.git
-# sunxwear
